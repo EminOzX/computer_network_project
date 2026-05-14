@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Kişisel notlar
+notes.txt
+
+# IDE
+.vscode/
+.idea/
